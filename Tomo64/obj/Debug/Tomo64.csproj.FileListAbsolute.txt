@@ -1,0 +1,14 @@
+K:\Jialin\Tomo64\Tomo64\bin\Debug\Tomo64.exe
+K:\Jialin\Tomo64\Tomo64\bin\Debug\Tomo64.pdb
+K:\Jialin\Tomo64\Tomo64\bin\Debug\DataLoad.dll
+K:\Jialin\Tomo64\Tomo64\bin\Debug\DataUtil.dll
+K:\Jialin\Tomo64\Tomo64\bin\Debug\Reconstruction.dll
+K:\Jialin\Tomo64\Tomo64\bin\Debug\Reconstruction.pdb
+K:\Jialin\Tomo64\Tomo64\bin\Debug\DataUtil.pdb
+K:\Jialin\Tomo64\Tomo64\bin\Debug\DataLoad.pdb
+K:\Jialin\Tomo64\Tomo64\obj\Debug\ResolveAssemblyReference.cache
+K:\Jialin\Tomo64\Tomo64\obj\Debug\Tomo64.Form1.resources
+K:\Jialin\Tomo64\Tomo64\obj\Debug\Tomo64.Properties.Resources.resources
+K:\Jialin\Tomo64\Tomo64\obj\Debug\Tomo64.csproj.GenerateResource.Cache
+K:\Jialin\Tomo64\Tomo64\obj\Debug\Tomo64.exe
+K:\Jialin\Tomo64\Tomo64\obj\Debug\Tomo64.pdb
